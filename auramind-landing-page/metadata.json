@@ -1,0 +1,6 @@
+{
+  "name": "AuraMind Landing Page",
+  "description": "A modern, highly converting, dark-themed landing page for an AI SaaS startup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
